@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SimpleRealmExample</string>
+
+    <string-array name="names">
+        <item>Felix</item>
+        <item>Carolina</item>
+        <item>Matheus</item>
+        <item>Bruno</item>
+        <item>Lucas</item>
+        <item>Valdecy</item>
+        <item>Rosana</item>
+        <item>Zarife</item>
+        <item>Danilo</item>
+        <item>Julio</item>
+        <item>Gabriel</item>
+    </string-array>
+
+    <string-array name="ages">
+        <item>25</item>
+        <item>24</item>
+        <item>18</item>
+        <item>15</item>
+        <item>13</item>
+        <item>35</item>
+        <item>30</item>
+        <item>80</item>
+        <item>55</item>
+        <item>50</item>
+        <item>47</item>
+    </string-array>
+
+    <string-array name="nicknames">
+        <item>Captain America</item>
+        <item>The Big Oh!</item>
+        <item>Double Trouble</item>
+        <item>Oh-Oh</item>
+        <item>Stone Buddha</item>
+        <item>The Nippon Assassin</item>
+        <item>Shoh-Time</item>
+        <item>The Other</item>
+        <item>Madman of Macedonia</item>
+        <item>The Sultan of Swat</item>
+        <item>The Big Bam</item>
+    </string-array>
+
+</resources>
